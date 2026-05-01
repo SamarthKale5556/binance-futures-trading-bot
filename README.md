@@ -177,3 +177,53 @@ The bot handles:
 # Author
 
 Developed as part of Primetrade.ai Python Developer Internship Assignment.
+---
+
+
+# Project Demonstration
+
+## Binance Futures Demo Trading Dashboard
+
+Demonstration environment used for testing Binance Futures orders on the Testnet platform.
+
+![Binance Dashboard](screenshots/01_binance_dashboard.png)
+
+---
+
+## Market Order Execution
+
+Successful MARKET order execution using the CLI trading bot.
+
+![Market Order](screenshots/02_market_order_execution.png)
+
+---
+
+## Limit Order Execution
+
+Successful LIMIT order execution with custom price support.
+
+![Limit Order](screenshots/03_limit_order_execution.png)
+
+---
+
+## Stop Market Order Execution
+
+Successful STOP_MARKET order implementation as an advanced order feature.
+
+![Stop Market Order](screenshots/04_stop_market_order_execution.png)
+
+---
+
+## Binance Open Orders Verification
+
+Verification of orders directly inside Binance Futures Testnet dashboard.
+
+![Open Orders](screenshots/05_binance_open_orders.png)
+
+---
+
+## Logging System
+
+Structured logging system capturing API requests, responses, and execution details.
+
+![Logging System](screenshots/06_logging_system.png)
